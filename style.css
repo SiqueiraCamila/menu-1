@@ -1,0 +1,41 @@
+:root{
+    --cor_fundo:darkgray;
+    --cor_letra: #10091D;
+    --cor_div:#D9D8D9; 
+    --cor_butao: #46315C; 
+
+
+}
+
+.depressao{
+    background-color: var(--cor_fundo);
+    color: var(--cor_letra);
+    height: 500px;
+    text-align: center;
+
+}
+#cachaça{
+    background-color: var(--cor_butao);
+    font-size: 35px;
+}
+
+#pinga{
+    background-color: var(--cor_butao);
+    font-size: 35px;
+}
+
+#puta{
+    background-color: var(--cor_butao);
+    font-size: 35px;
+}
+
+.botao {
+height: 70px;
+width:631;
+
+}
+h1{
+    font-size: 35px;
+    text-align: center;
+    color: #10091D;
+}
